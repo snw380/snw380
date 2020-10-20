@@ -7,7 +7,7 @@ I'm a young dev from Florida, a visual person that loves the landscape of front 
 - proficient in `CSS`, `HTML`, `JavaScript`, & `MySQL` 💻
 - constantly expanding my skills, currently learning `React` & PWA's
 
-At the age of 18 I moved across the crountry to attend the Bethel School of Ministry. This established some core values in my life that I live by. They are, 
+At the age of 18 I moved across the country to attend the Bethel School of Ministry. This established some core values in my life that I live by. They are, 
 - God is good 
 - salvation creates joyful identity 
 - creating healthy family 
@@ -15,4 +15,15 @@ At the age of 18 I moved across the crountry to attend the Bethel School of Mini
 - honor affirms value 
 - generous like my father
 
-![Tyler Morgan](assets/tyler-1.img.JPG)
+
+<div style="
+    width:300px; 
+    height:100px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;"
+    >
+
+![Tyler Morgan](assets/tyler-1.img.JPG#thumbnail)
+
+</div>
