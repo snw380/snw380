@@ -14,3 +14,5 @@ At the age of 18 I moved across the crountry to attend the Bethel School of Mini
 - free and responsible 
 - honor affirms value 
 - generous like my father
+
+![Tyler Morgan] (./assets/tyler-1.img.JPG)
