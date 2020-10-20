@@ -17,5 +17,5 @@ At the age of 18 I moved across the country to attend the Bethel School of Minis
 
 
 <div >
-    <img src="./assets/tyler-1-min.JPG" style="width: 300px; display: block; margin-left: auto; margin-right: auto;"  >
+    <img src="./assets/tyler-1-min.jpg" style="width: 300px; display: block; margin-left: auto; margin-right: auto;"  >
 </div>
