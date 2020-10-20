@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hello! Welcome to my Github porfilo. 👋
+
+<!--  This is a top secret incrypted message  🤫 -->
+
+I'm a young dev from Florida, I'm a visual person that loves the landscape of front end but also enjoys the challanges that back end can present. 
+- I'm currently studing at UCF 
+- proficient in `CSS` & `HTML`
+
 
 <!--
-**snw380/snw380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
