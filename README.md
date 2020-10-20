@@ -16,7 +16,7 @@ At the age of 18 I moved across the country to attend the Bethel School of Minis
 - generous like my father
 
 
-<div style=" width:300px; height:100px; display: block; margin-left: auto; margin-right: auto;">
+<div style="width:300px; height:100px; display: block; margin-left: auto; margin-right: auto;">
 
 ![Tyler Morgan](assets/tyler-1.img.JPG)
 </div>
