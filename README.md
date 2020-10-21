@@ -3,7 +3,7 @@
 <!--  This is a top secret incrypted message  🤫 -->
 
 I'm a young dev from Florida, a visual person that loves the landscape of front end but also enjoys the challanges that back end can present. 
-- I'm currently studing at UCF 📚
+- I'm currently studying at UCF 📚
 - proficient in `CSS`, `HTML`, `JavaScript`, & `MySQL` 💻
 - constantly expanding my skills, currently learning `React` & PWA's
 
