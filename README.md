@@ -1,15 +1,6 @@
-### Hello! Welcome to my Github portfolio. 👋
-
-<!--  This is a top secret incrypted message  🤫 -->
-
-I'm a young dev from Florida, a visual person that loves the landscape of front end but also enjoys the challanges that back end can present. 
-- I'm currently studying at UCF 📚
-- proficient in `CSS`, `HTML`, `JavaScript`, & `MySQL` 💻
-- constantly expanding my skills, currently developing `React` & PWA's 
-
-
-
-
-<div>
-    <img src="./assets/tyler-1.img.JPG" style="max-width:150px; display: block; margin-left: auto; margin-right: auto;"  >
-</div>
+<h1 align="center"> 🖥️ Hello World 🖥️ </h1>
+<p align="center">  Tyler Morgan </p>
+<h1 align="center"> About Me </h1>
+<p align="center">
+    I am a UCF coding boot camp graduate specializing  in full stack web development searching for a position as a software developer. 
+</p>
