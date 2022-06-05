@@ -11,5 +11,5 @@ I'm a young dev from Florida, a visual person that loves the landscape of front 
 
 
 <div>
-    <img src="./assets/tyler-1.img.JPG" style="max-width: 300px; display: block; margin-left: auto; margin-right: auto;"  >
+    <img src="./assets/tyler-1.img.JPG" style="max-width:150px; display: block; margin-left: auto; margin-right: auto;"  >
 </div>
